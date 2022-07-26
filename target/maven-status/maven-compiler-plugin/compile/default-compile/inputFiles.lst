@@ -1,0 +1,9 @@
+/Users/tirveedhulaa/Downloads/Triagram/src/main/java/org/codekatha/trigram/exception/BookReadException.java
+/Users/tirveedhulaa/Downloads/Triagram/src/main/java/org/codekatha/trigram/exception/TrigramGeneratorException.java
+/Users/tirveedhulaa/Downloads/Triagram/src/main/java/org/codekatha/trigram/exception/TrigramException.java
+/Users/tirveedhulaa/Downloads/Triagram/src/main/java/org/codekatha/trigram/model/TrigramsMap.java
+/Users/tirveedhulaa/Downloads/Triagram/src/main/java/org/codekatha/trigram/exception/BookWriteException.java
+/Users/tirveedhulaa/Downloads/Triagram/src/main/java/org/codekatha/trigram/util/BookReader.java
+/Users/tirveedhulaa/Downloads/Triagram/src/main/java/org/codekatha/trigram/util/TrigramsGenerator.java
+/Users/tirveedhulaa/Downloads/Triagram/src/main/java/org/codekatha/trigram/util/BookWriter.java
+/Users/tirveedhulaa/Downloads/Triagram/src/main/java/org/codekatha/trigram/TrigramMain.java

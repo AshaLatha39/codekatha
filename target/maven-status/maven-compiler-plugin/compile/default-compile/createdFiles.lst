@@ -1,0 +1,9 @@
+org/codekatha/trigram/exception/TrigramException.class
+org/codekatha/trigram/exception/BookWriteException.class
+org/codekatha/trigram/util/BookWriter.class
+org/codekatha/trigram/util/TrigramsGenerator.class
+org/codekatha/trigram/util/BookReader.class
+org/codekatha/trigram/model/TrigramsMap.class
+org/codekatha/trigram/exception/BookReadException.class
+org/codekatha/trigram/exception/TrigramGeneratorException.class
+org/codekatha/trigram/TrigramMain.class
